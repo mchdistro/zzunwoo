@@ -1,0 +1,253 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "zzunwoo-1.20.1",
+      "name": "스트리머서버 통합런처",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.14)",
+      "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
+      "version": "1.0.0",
+      "address": "116.46.243.14",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.14",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1416842,
+            "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.14",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2849,
+                "MD5": "a08dbc272f6d4e472b1c55c604da7fb0",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/versions/1.20.1-fabric-0.16.14/1.20.1-fabric-0.16.14.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1499194,
+                "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://github.com/mchdistro/zzunwoo/raw/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6738,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.5+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107841,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.36+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105382,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2726899,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.8.2+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3246941,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.20.1.jar",
+            "MD5": "6f9831f8f5fc92aeb2d8b97e3285dafb"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.30@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8103826,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
+            "MD5": "10efc718572d137c7ba2ab386f307bba"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.20.1@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 155225,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "MD5": "402e43eac5ceb006c20b19928f880fda"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 270,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 484,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/servers.dat",
+            "MD5": "ae8ce8556a46838f362f941fa4b6f61e",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip",
+          "name": "photon_v1.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1558823,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+            "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
+            "path": "shaderpacks/photon_v1.0a.zip"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip.txt",
+          "name": "photon_v1.0a.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
+            "path": "shaderpacks/photon_v1.0a.zip.txt"
+          }
+        }
+      ]
+    }
+  ]
+}
