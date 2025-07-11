@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "xaero.minimap:xaerominimap:25.2.6@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1736893,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.6_Fabric_1.20.jar",
+            "MD5": "e6c57693f5ce070ec76b836e3abca674"
+          }
+        },
+        {
           "id": "iris.properties",
           "name": "iris.properties",
           "type": "File",
