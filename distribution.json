@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "116.46.243.14",
+      "address": "122.38.40.140",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -232,7 +232,7 @@
           "artifact": {
             "size": 164,
             "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/servers.dat",
-            "MD5": "ae8ce8556a46838f362f941fa4b6f61e",
+            "MD5": "4a5c3985d292660d6b4f94223bd1d311",
             "path": "servers.dat"
           }
         },
