@@ -5,7 +5,7 @@
     "name": "CTE2",
     "description": "Minecraft 1.20.1 (Forge v47.4.16)",
     "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
-    "address": "localhost:25565",
+    "address": "122.38.40.140:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

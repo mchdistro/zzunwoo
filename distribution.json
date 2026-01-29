@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "122.38.40.140:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -85665,6 +85665,17 @@
             "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/scripts/sandconversion.zs",
             "MD5": "68cdc0851a8b3c67476514216974131a",
             "path": "scripts/sandconversion.zs"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.20.1/files/servers.dat",
+            "MD5": "4a5c3985d292660d6b4f94223bd1d311",
+            "path": "servers.dat"
           }
         },
         {
