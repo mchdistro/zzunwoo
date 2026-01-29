@@ -1,0 +1,2 @@
+servers/**/files/config/fancymenu/assets/mahj_1294853429_mainmenu.fma filter=lfs diff=lfs merge=lfs -text
+servers/**/files/config/openloader/resources/resources.zip filter=lfs diff=lfs merge=lfs -text
