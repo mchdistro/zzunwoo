@@ -2,25 +2,40 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/zzunwoo/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "스트리머서버 통합런처",
-    "description": "Minecraft 1.20.1 (Fabric v0.16.14)",
+    "name": "CTE2",
+    "description": "Minecraft 1.20.1 (Forge v47.4.16)",
     "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
-    "address": "122.38.40.140",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": "=>21",
+      "suggestedMajor": 21,
+      "platformOptions": [
+        {
+          "platform": "win32",
+          "architecture": "x64",
+          "distribution": "TEMURIN"
+        }
+      ],
+      "ram": {
+        "minimum": 4096,
+        "recommended": 8192
+      }
+    }
   },
-  "fabric": {
-    "version": "0.16.14"
+  "forge": {
+    "version": "47.4.16"
   },
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "config/iris.properties", "shaderpacks/photon_v1.0a.zip.txt"]
+      "patterns": ["options.txt", "config/**.**", "config/jei/**.**", "defaultconfigs/**/**.**"]
     }
   ]
 }
