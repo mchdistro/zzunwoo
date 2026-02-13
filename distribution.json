@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
       "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "122.38.40.140",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -255,7 +255,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 212,
+            "size": 5306,
             "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/options.txt",
             "path": "options.txt"
           }

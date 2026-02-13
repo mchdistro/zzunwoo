@@ -5,7 +5,7 @@
     "name": "엘시의 설날 민속놀이",
     "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
-    "address": "localhost:25565",
+    "address": "122.38.40.140",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
