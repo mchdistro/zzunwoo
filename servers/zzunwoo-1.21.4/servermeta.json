@@ -1,0 +1,41 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/zzunwoo/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "엘시의 설날 민속놀이",
+    "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
+    "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": "=>21",
+      "suggestedMajor": 21,
+      "platformOptions": [
+        {
+          "platform": "win32",
+          "architecture": "x64",
+          "distribution": "TEMURIN"
+        }
+      ],
+      "ram": {
+        "minimum": 4096,
+        "recommended": 8192
+      }
+    }
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "config/iris.properties", "shaderpacks/**.txt"]
+    }
+  ]
+}
