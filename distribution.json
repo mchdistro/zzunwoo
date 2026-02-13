@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "zzunwoo-1.21.4",
+      "id": "elsea-1.21.4",
       "name": "엘시의 설날 민속놀이",
       "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
       "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376047,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
             "MD5": "3c220399e5c34dae32224818c7acaa6c"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 832983,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
             "MD5": "13e5465b5ed84d6b27082119c12e01fa"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
@@ -196,7 +196,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 578977,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
             "MD5": "fcf0f59c7f45c751af04527080bc4e28"
           }
         },
@@ -206,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 321286,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
             "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
           }
         },
@@ -216,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12191569,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
             "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
           }
         },
@@ -226,7 +226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -236,7 +236,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 154830,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
             "MD5": "1062016a1608823555c1bf16fafeb6cd"
           }
         },
@@ -246,7 +246,7 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -256,7 +256,7 @@
           "type": "File",
           "artifact": {
             "size": 212,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/files/options.txt",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -265,9 +265,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 104,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/files/servers.dat",
-            "MD5": "aab9713594ffdd61af094970d669985c",
+            "size": 187,
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/servers.dat",
+            "MD5": "568a30bb6bc2b2c399e7aaf018407963",
             "path": "servers.dat"
           }
         },
@@ -277,7 +277,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -288,7 +288,7 @@
           "type": "File",
           "artifact": {
             "size": 203,
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/zzunwoo-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/elsea-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
