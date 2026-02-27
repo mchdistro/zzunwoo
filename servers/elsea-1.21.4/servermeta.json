@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/zzunwoo/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "엘시의 설날 민속놀이",
+    "name": "통합런처",
     "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
     "address": "122.38.40.140",
